@@ -1,0 +1,78 @@
+ID,Name,Border,Command,foldername,filename
+1,Orbital Precision Strike,RED,RRU,Offensive,Orbital Precision Strike Icon.png
+2,Orbital Gatling Barrage,RED,RDLUU,Offensive,Orbital Gatling Barrage Icon.png
+3,Orbital Airburst Strike,RED,RRR,Offensive,Orbital Airburst Strike Icon.png
+4,Orbital Napalm Barrage,RED,RRDLRU,Offensive,Orbital Napalm Barrage Icon.png
+5,Orbital 120MM HE Barrage,RED,RRDLRD,Offensive,Orbital 120MM HE Barrage Icon.png
+6,Orbital Walking Barrage,RED,RDRDRD,Offensive,Orbital Walking Barrage Icon.png
+7,Orbital 380MM HE Barrage,RED,RDUULDD,Offensive,Orbital 380MM HE Barrage Icon.png
+8,Orbital Railcannon Strike,RED,RUDDR,Offensive,Orbital Railcannon Strike Icon.png
+9,Orbital Laser,RED,RDURD,Offensive,Orbital Laser Icon.png
+10,Orbital EMS Strike,RED,RRLD,Offensive,Orbital EMS Strike Icon.png
+11,Orbital Gas Strike,RED,RRDR,Offensive,Orbital Gas Strike Icon.png
+12,Orbital Smoke Strike,RED,RRDU,Offensive,Orbital Smoke Strike Icon.png
+13,Eagle 500kg Bomb,RED,URDDD,Offensive,Eagle 500kg Bomb Icon.png
+14,Eagle Strafing Run,RED,URR,Offensive,Eagle Strafing Run Icon.png
+15,Eagle 110MM Rocket Pods,RED,URUL,Offensive,Eagle 110MM Rocket Pods Icon.png
+16,Eagle Airstrike,RED,URDR,Offensive,Eagle Airstrike Icon.png
+17,Eagle Cluster Bomb,RED,URDDR,Offensive,Eagle Cluster Bomb Icon.png
+18,Eagle Napalm Airstrike,RED,URDU,Offensive,Eagle Napalm Airstrike Icon.png
+19,Eagle Smoke Strike,RED,URUD,Offensive,Eagle Smoke Strike Icon.png
+20,MG-43 Machine Gun,BLUE,DLDUR,Supply,Machine Gun Icon.png
+21,M-105 Stalwart,BLUE,DLDUUL,Supply,Stalwart Icon.png
+22,MG-206 Heavy Machine Gun,BLUE,DLUDD,Supply,Heavy Machine Gun Icon.png
+23,RS-422 Railgun,BLUE,DRDULR,Supply,Railgun Icon.png
+24,APW-1 Anti-Materiel Rifle,BLUE,DLRUD,Supply,Anti-Materiel Rifle Icon.png
+25,GL-21 Grenade Launcher,BLUE,DLULD,Supply,Grenade Launcher Icon.png
+26,Unknown,BLUE,DLUDL,Supply,Sterilizer Icon.png
+27,FLAM-40 Flamethrower,BLUE,DLUDU,Supply,Flamethrower Icon.png
+28,LAS-98 Laser Cannon,BLUE,DLDUL,Supply,Laser Cannon Icon.png
+29,LAS-99 Quasar Cannon,BLUE,DDULR,Supply,Quasar Cannon Icon.png
+30,ARC-3 Arc Thrower,BLUE,DRDULL,Supply,Arc Thrower Icon.png
+31,MLS-4X Commando,BLUE,DLUDR,Supply,Commando Icon.png
+32,EAT-17 Expendable Anti-tank,BLUE,DDLUR,Supply,Expendable Anti-Tank Icon.png
+33,AC-8 Autocannon,BLUE,DLDUUR,Supply,Autocannon Icon.png
+34,RL-77 Airburst Rocket Launcher,BLUE,DUULR,Supply,Airburst Rocket Launcher Icon.png
+35,FAF-14 Spear Launcher,BLUE,DDUDD,Supply,Spear Icon.png
+36,StA-X3_W.A.S.P. Launcher,BLUE,DDUDR,Supply,StA-X3 W.A.S.P. Launcher Icon.png
+37,GR-8 Recoilless Rifle,BLUE,DLRRL,Supply,Recoilless Rifle Icon.png
+38,SH-32 Shield Generator Pack,BLUE,DULRLR,Supply,Shield Generator Pack Icon.png
+39,SH-51 Directional Shield Backpack,BLUE,DULRUU,Supply,Directional Shield Icon.png
+40,SH-20 Ballistic Shield Backpack,BLUE,DLDDUL,Supply,Ballistic Shield Backpack Icon.png
+41,Unknown,BLUE,DUUDLR,Supply,Hover Pack Icon.png
+42,B-1 Supply Pack,BLUE,DLDUUD,Supply,Supply Pack Icon.png
+43,B-100 Portable Hellbomb,BLUE,DRUUU,Supply,Portable Hellbomb Icon.png
+44,LIFT-850 Jump Pack,BLUE,DUUDU,Supply,Jump Pack Icon.png
+45,"AX/AR-23 ""Guard Dog""",BLUE,DULURD,Supply,Guard Dog Icon.png
+46,"AX/LAS-5 ""Guard Dog"" Rover",BLUE,DULURR,Supply,Guard Dog Rover Icon.png
+47,"AX/TX-13 ""Guard Dog"" Dog Breath",BLUE,DULURU,Supply,'Guard Dog' Dog Breath Icon.png
+48,M-102 Fast Recon Vehicle,BLUE,LDRDRDU,Supply,Fast Recon Vehicle Icon.png
+49,EXO-49 Emancipator Exosuit,BLUE,LDRULDU,Supply,Emancipator Exosuit Icon.png
+50,EXO-45 Patriot Exosuit,BLUE,LDRULDD,Supply,Patriot Exosuit Icon.png
+51,A/G-16 Gatling Sentry,GREEN,DURL,Defensive,Gatling Sentry Icon.png
+52,A/MG-43 Machine Gun Sentry,GREEN,DURRU,Defensive,Machine Gun Sentry Icon.png
+53,E/FLAM-40 Flame Sentry,GREEN,DURDUU,Defensive,Flame Sentry Icon.png
+54,A/MLS-4X Rocket Sentry,GREEN,DURRL,Defensive,Rocket Sentry Icon.png
+55,A/AC-8 Autocannon Sentry,GREEN,DURULU,Defensive,Autocannon Sentry Icon.png
+56,A/M-23 EMS Mortar Sentry,GREEN,DURDR,Defensive,EMS Mortar Sentry Icon.png
+57,A/M-12 Mortar Sentry,GREEN,DURRD,Defensive,Mortar Sentry Icon.png
+58,FX-12 Shield Generator Relay,GREEN,DDLRLR,Defensive,Shield Generator Relay Icon.png
+59,E/GL-21 Grenadier Battlement,GREEN,DRDLR,Defensive,Grenadier Battlement Icon.png
+60,E/AT-12 Anti-Tank Emplacement,GREEN,LLUURL,Defensive,Anti-Tank Emplacement Icon.png
+61,E/MG-101 HMG Emplacement,GREEN,DULRRL,Defensive,HMG Emplacement Icon.png
+62,A/ARC-3 Tesla Tower,GREEN,DURULR,Defensive,Tesla Tower Icon.png
+63,MD-17 Anti-Tank Mines,GREEN,DLUU,Defensive,Anti-Tank Mines Icon.png
+64,MD-8 Gas Mines,GREEN,DLLR,Defensive,Gas Mines Icon.png
+65,MD-6 Anti-Personnel Minefield,GREEN,DLUR,Defensive,Anti-Personnel Minefield Icon.png
+66,MD-I4 Incendiary Mines,GREEN,DLLD,Defensive,Incendiary Mines Icon.png
+67,Reinforce,UNKNOWN,UDRLU,Mission Stratagems,Reinforce Icon.png
+68,SOS Beacon,UNKNOWN,UDRU,Mission Stratagems,SOS Beacon Icon.png
+69,Resupply,UNKNOWN,DDUR,Mission Stratagems,Resupply Icon.png
+70,NUX-223 Hellbomb,UNKNOWN,DULDURDU,Mission Stratagems,Hellbomb Icon.png
+71,SSSD Delivery,UNKNOWN,DDDUU,Mission Stratagems,SSSD Delivery Icon.png
+72,Seismic Probe,UNKNOWN,UULRDD,Mission Stratagems,Seismic Probe Icon.png
+73,Upload Data,UNKNOWN,LRUUU,Mission Stratagems,Upload Data Icon.png
+74,Eagle Rearm,UNKNOWN,UULUR,Mission Stratagems,Eagle Rearm Icon.png
+75,SEAF Artillery,UNKNOWN,RUUD,Mission Stratagems,SEAF Artillery Icon.png
+76,Super Earth Flag,UNKNOWN,DUDU,Mission Stratagems,Super Earth Flag Icon.png
+77,Hive Breaker Drill,UNKNOWN,LUDRDD,Mission Stratagems,Hive Breaker Drill Icon.png
